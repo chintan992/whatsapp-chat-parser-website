@@ -1,12 +1,12 @@
 # WhatsApp Chat Parser Website
 
-> Example application of the package [whatsapp-chat-parser](https://github.com/Pustur/whatsapp-chat-parser)
+> Example application of the package [whatsapp-chat-parser](https://github.com/chintan992/whatsapp-chat-parser)
 
 This website allows you to upload a WhatsApp chat log and view its contents.
 You can upload a `txt` directly or a `zip` file containing the exported chat.  
 The app runs locally and no logs are sent or stored anywhere.
 
-The website is available at [whatsapp-chat-parser.netlify.app](https://whatsapp-chat-parser.netlify.app/)
+The website is available at [wpchat.ml](https://wpchat.ml/)
 
 ## How to export WhatsApp chats
 
