@@ -8,6 +8,8 @@ The app runs locally and no logs are sent or stored anywhere.
 
 The website is available at [wpchat.ml](https://wpchat.ml/)
 
+## Netlify Build Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4fdcc37a-7856-45eb-8757-d5c316ab5b8b/deploy-status)](https://app.netlify.com/sites/wpchat/deploys)
 ## How to export WhatsApp chats
 
 - [Android](https://faq.whatsapp.com/android/chats/how-to-save-your-chat-history)
